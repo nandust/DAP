@@ -10,4 +10,5 @@
 
 ## 定制说明
 
-1. xxxxx
+1. 安装界面文件位于SetupScripts>songliwu文件夹内。
+2. 自己设计图片将其替换即可。
